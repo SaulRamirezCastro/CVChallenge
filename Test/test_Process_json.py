@@ -13,4 +13,5 @@ def test_read_json():
     process._file_path = "D:/Users/SaulRC/PycharmProjects/CVChallenge/Test/Sample/dataset_covid.json"
     process.read_json()
     process.process_file()
-    print(process._raw_data)
+    process.separe_json()
+
