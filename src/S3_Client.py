@@ -4,35 +4,48 @@
 import logging
 
 import boto3
+from src.config import config as cf
+import os
 from botocore.exceptions import ClientError
 
 
 class S3:
 
-    _s3_client = None  # type: boto3.client
-    _source_path = None #type: str
-    _bucket = None      #type: str
-    _s3_destination = None      #type: str
+    _s3 = None            # type: boto3.client
+    _bucket = None              # type: str
+    _file_path = None           # type: str
+    _key_remove = None          # type: str
 
-    def __init__(self, ) -> None:
+    def __init__(self) -> None:
         logging.info("Aws S3 client Initialisation ")
-        self._bucket = None
-        self._upload_file_to_s3()
+        self._set_bucket()
+        self._set_key_remove()
+        self._set_file_path()
+
+    def _set_key_remove(self):
+        if self._key_remove is None:
+            self._key_remove = cf.key_remove
+
+    def _set_bucket(self):
+        if self._bucket is None:
+            self._bucket = cf.bucket
+
+    def _set_file_path(self) -> None:
+        sample_path = os.path.join(os.getcwd(), "Test", "Sample")
+        file_name = f"{sample_path}\{cf.file_name}"
+        if os.path.exists(file_name):
+            self._file_path = file_name
+        else:
+            logging.info(f"File {file_name} doesn’t   exist ")
 
     @property
     def _s3_client(self) -> boto3.client:
+        return boto3.client('s3')
+
+    def _upload_file_to_s3(self, source_path: str, key: str) -> bool:
 
         try:
-            if self._s3_client is None:
-                self._s3_client = boto3.resource('s3')
-        except ClientError as e:
-            logging.exception(e)
-        return self._s3_client
-
-    def _upload_file_to_s3(self) -> bool:
-
-        try:
-            self._s3_client.upload_file(self._source_path, self._bucket, self._s3_destination)
+            self._s3_client.upload_file(source_path, self._bucket, key)
         except ClientError as e:
             logging.exception(e)
 

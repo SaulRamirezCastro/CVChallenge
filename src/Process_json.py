@@ -4,81 +4,90 @@
 import logging
 import json
 from src.S3_Client import S3
+
+import os
 from itertools import chain
 
 
 class ProcessJson(S3):
 
-    _file_path = None         #type: str
-    _raw_data = None          #type: dict
-    _continet = None          #type: list()
+    _file_path = None       # type: str
+    _raw_data = None        # type: dict
+    _continents = []      # type: list()
+    _keys = []              # type: list()
 
     def __init__(self) -> None:
         super(ProcessJson).__init__()
+
         print("Class Process Json Initialization ")
 
-    def read_json(self) -> None:
+    def process_challenge(self):
+        self._set_bucket()
+        self._set_key_remove()
+        self._set_file_path()
+        self._read_json()
+        self._iterate_json()
+        self._process_json()
 
+    def _read_json(self) -> None:
         with open(self._file_path) as f_in:
             data = json.load(f_in)
 
         if data:
             self._raw_data = data
 
-    def iterate_json(self):
-        pass
-
-    def process_file(self):
-
+    def _iterate_json(self) -> None:
         tmp = {}
         data = []
-        continet = []
 
-        for k, v in self._raw_data.items():
-            if isinstance(v, dict):
-                for k_2, v_2 in v.items():
-                    if isinstance(v_2, list):
-                        for a in v_2:
-                            self.delate_key(a)
-                    tmp[k_2] = v_2
+        for key, value in self._raw_data.items():
+            if isinstance(value, dict):
+                for k, v in value.items():
+                    if isinstance(v, list):
+                        for record in v:
+                            self.delete_key(record)
+                    tmp[k] = v
             tmp_2 = tmp.copy()
             data.append(tmp_2)
-            tmp_continet = v.get("continent", None)
+            self._set_continents(value)
 
-            if tmp_continet not in continet and tmp_continet is not None:
-                continet.append(tmp_continet)
         if data:
             self._raw_data = data
-        if continet:
-            self._continet = continet
 
+    def _set_continents(self, data) -> None:
+        tmp = data.get("continent", None)
+
+        if tmp not in self._continents and tmp is not None:
+            self._continents.append(tmp)
+
+    def delete_key(self, data) -> None:
+
+        a = self._key_remove
+        if self._key_remove in data:
+            data.pop(self._key_remove)
+
+    def _process_json(self) -> None:
+        data = []
+        for continent in self._continents:
+            for count, row in enumerate(self._raw_data):
+                if continent in row["continent"]:
+                    data.append(row)
+
+            file = self.write_data(continent, data)
+            key = f"{continent}.json"
+            self._upload_file_to_s3(file, key)
+            data.clear()
 
     @staticmethod
-    def delate_key(data) -> None:
+    def write_data(file_name, data) -> str:
 
-        if "stringency_index" in data:
-            data.pop("stringency_index")
-
-
-    def separe_json(self):
-
-        data =[]
-        for continet in self._continet:
-            for count, row in enumerate(self._raw_data):
-                if continet in row["continent"]:
-                    data.append(row)
-                    #self._raw_data.pop(row)
-
-            self.write_data(continet, data)
-            data = []
-
-    def write_data(self, file_name, data):
-
-        file_name = f"{file_name}.json"
-        data = json.dumps(data, indent=3)
-        print(data)
+        path = os.path.join(os.getcwd(), "Test", "Results")
+        file_name = f"{path}\{file_name}.json"
+        data = json.dumps(data, indent=4)
 
         with open(file_name, 'w') as json_file:
             json_file.write(data)
+
+        return file_name
 
 
