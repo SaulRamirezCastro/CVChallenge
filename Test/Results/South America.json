@@ -8,9 +8,11 @@
         "aged_65_older": 11.198,
         "aged_70_older": 7.441,
         "gdp_per_capita": 18933.907,
+        "extreme_poverty": 0.6,
         "cvd_death_rate": 191.032,
         "diabetes_prevalence": 5.5,
-        "handwashing_facilities": 26.664,
+        "female_smokers": 16.2,
+        "male_smokers": 27.7,
         "hospital_beds_per_thousand": 5.0,
         "life_expectancy": 76.67,
         "data": [
@@ -1843,10 +1845,7 @@
                 "total_deaths_per_million": 29.892,
                 "new_deaths_per_million": 0.974
             }
-        ],
-        "extreme_poverty": 0.6,
-        "female_smokers": 16.2,
-        "male_smokers": 27.7
+        ]
     },
     {
         "continent": "South America",
@@ -1857,6 +1856,7 @@
         "aged_65_older": 6.704,
         "aged_70_older": 4.393,
         "gdp_per_capita": 6885.829,
+        "extreme_poverty": 7.1,
         "cvd_death_rate": 204.299,
         "diabetes_prevalence": 6.89,
         "handwashing_facilities": 25.383,
@@ -3839,10 +3839,7 @@
                 "total_deaths_per_million": 102.887,
                 "new_deaths_per_million": 6.682
             }
-        ],
-        "extreme_poverty": 7.1,
-        "female_smokers": 0.6,
-        "male_smokers": 12.3
+        ]
     },
     {
         "continent": "South America",
@@ -3853,9 +3850,11 @@
         "aged_65_older": 8.552,
         "aged_70_older": 5.06,
         "gdp_per_capita": 14103.452,
+        "extreme_poverty": 3.4,
         "cvd_death_rate": 177.961,
         "diabetes_prevalence": 8.11,
-        "handwashing_facilities": 97.164,
+        "female_smokers": 10.1,
+        "male_smokers": 17.9,
         "hospital_beds_per_thousand": 2.2,
         "life_expectancy": 75.88,
         "data": [
@@ -5929,10 +5928,7 @@
                 "total_deaths_per_million": 285.247,
                 "new_deaths_per_million": 4.883
             }
-        ],
-        "extreme_poverty": 3.4,
-        "female_smokers": 10.1,
-        "male_smokers": 17.9
+        ]
     },
     {
         "continent": "South America",
@@ -5943,9 +5939,11 @@
         "aged_65_older": 11.087,
         "aged_70_older": 6.938,
         "gdp_per_capita": 22767.037,
+        "extreme_poverty": 1.3,
         "cvd_death_rate": 127.993,
         "diabetes_prevalence": 8.46,
-        "handwashing_facilities": 5.818,
+        "female_smokers": 34.2,
+        "male_smokers": 41.5,
         "hospital_beds_per_thousand": 2.11,
         "life_expectancy": 80.18,
         "data": [
@@ -7897,10 +7895,7 @@
                 "total_deaths_per_million": 300.949,
                 "new_deaths_per_million": 3.4
             }
-        ],
-        "extreme_poverty": 1.3,
-        "female_smokers": 34.2,
-        "male_smokers": 41.5
+        ]
     },
     {
         "continent": "South America",
@@ -7911,8 +7906,11 @@
         "aged_65_older": 7.646,
         "aged_70_older": 4.312,
         "gdp_per_capita": 13254.949,
+        "extreme_poverty": 4.5,
         "cvd_death_rate": 124.24,
         "diabetes_prevalence": 7.44,
+        "female_smokers": 4.7,
+        "male_smokers": 13.5,
         "handwashing_facilities": 65.386,
         "hospital_beds_per_thousand": 1.71,
         "life_expectancy": 77.29,
@@ -9999,10 +9997,7 @@
                 "total_deaths_per_million": 68.196,
                 "new_deaths_per_million": 2.673
             }
-        ],
-        "extreme_poverty": 4.5,
-        "female_smokers": 4.7,
-        "male_smokers": 13.5
+        ]
     },
     {
         "continent": "South America",
@@ -10013,8 +10008,11 @@
         "aged_65_older": 7.104,
         "aged_70_older": 4.458,
         "gdp_per_capita": 10581.936,
+        "extreme_poverty": 3.6,
         "cvd_death_rate": 140.448,
         "diabetes_prevalence": 5.55,
+        "female_smokers": 2.0,
+        "male_smokers": 12.3,
         "handwashing_facilities": 80.635,
         "hospital_beds_per_thousand": 1.5,
         "life_expectancy": 77.01,
@@ -12690,24 +12688,12 @@
                 "total_deaths_per_million": 259.365,
                 "new_deaths_per_million": 2.777
             }
-        ],
-        "extreme_poverty": 3.6,
-        "female_smokers": 2.0,
-        "male_smokers": 12.3
+        ]
     },
     {
         "continent": "South America",
         "location": "Falkland Islands",
         "population": 3483.0,
-        "population_density": 35.308,
-        "median_age": 19.8,
-        "aged_65_older": 3.526,
-        "aged_70_older": 2.063,
-        "gdp_per_capita": 1729.927,
-        "cvd_death_rate": 182.634,
-        "diabetes_prevalence": 7.47,
-        "handwashing_facilities": 7.96,
-        "hospital_beds_per_thousand": 0.3,
         "life_expectancy": 81.44,
         "data": [
             {
@@ -13700,10 +13686,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 26.7,
-        "female_smokers": 0.4,
-        "male_smokers": 8.5
+        ]
     },
     {
         "continent": "South America",
@@ -14930,10 +14913,7 @@
                 "total_deaths_per_million": 16.528,
                 "new_deaths_per_million": 1.271
             }
-        ],
-        "extreme_poverty": 67.1,
-        "female_smokers": 35.3,
-        "male_smokers": 52.0
+        ]
     },
     {
         "continent": "South America",
@@ -14944,8 +14924,11 @@
         "aged_65_older": 6.378,
         "aged_70_older": 3.833,
         "gdp_per_capita": 8827.01,
+        "extreme_poverty": 1.7,
         "cvd_death_rate": 199.128,
         "diabetes_prevalence": 8.27,
+        "female_smokers": 5.0,
+        "male_smokers": 21.6,
         "handwashing_facilities": 79.602,
         "hospital_beds_per_thousand": 1.3,
         "life_expectancy": 74.25,
@@ -16991,10 +16974,7 @@
                 "total_deaths_per_million": 2.664,
                 "new_deaths_per_million": 0.28
             }
-        ],
-        "extreme_poverty": 1.7,
-        "female_smokers": 5.0,
-        "male_smokers": 21.6
+        ]
     },
     {
         "continent": "South America",
@@ -17005,9 +16985,10 @@
         "aged_65_older": 7.151,
         "aged_70_older": 4.455,
         "gdp_per_capita": 12236.706,
+        "extreme_poverty": 3.5,
         "cvd_death_rate": 85.755,
         "diabetes_prevalence": 5.95,
-        "handwashing_facilities": 79.602,
+        "female_smokers": 4.8,
         "hospital_beds_per_thousand": 1.6,
         "life_expectancy": 76.74,
         "data": [
@@ -19011,10 +18992,7 @@
                 "total_deaths_per_million": 299.043,
                 "new_deaths_per_million": 5.55
             }
-        ],
-        "extreme_poverty": 3.5,
-        "female_smokers": 4.8,
-        "male_smokers": 21.6
+        ]
     },
     {
         "continent": "South America",
@@ -19027,6 +19005,8 @@
         "gdp_per_capita": 13767.119,
         "cvd_death_rate": 258.314,
         "diabetes_prevalence": 12.54,
+        "female_smokers": 7.4,
+        "male_smokers": 42.9,
         "handwashing_facilities": 67.779,
         "hospital_beds_per_thousand": 3.1,
         "life_expectancy": 71.68,
@@ -20186,10 +20166,7 @@
                 "total_deaths_per_million": 22.16,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.7,
-        "female_smokers": 7.4,
-        "male_smokers": 42.9
+        ]
     },
     {
         "continent": "South America",
@@ -20200,9 +20177,11 @@
         "aged_65_older": 14.655,
         "aged_70_older": 10.361,
         "gdp_per_capita": 20551.409,
+        "extreme_poverty": 0.1,
         "cvd_death_rate": 160.708,
         "diabetes_prevalence": 6.93,
-        "handwashing_facilities": 21.222,
+        "female_smokers": 14.0,
+        "male_smokers": 19.9,
         "hospital_beds_per_thousand": 2.8,
         "life_expectancy": 77.91,
         "data": [
@@ -22035,10 +22014,7 @@
                 "total_deaths_per_million": 8.061,
                 "new_deaths_per_million": 0.288
             }
-        ],
-        "extreme_poverty": 0.1,
-        "female_smokers": 14.0,
-        "male_smokers": 19.9
+        ]
     },
     {
         "continent": "South America",
@@ -22051,7 +22027,6 @@
         "gdp_per_capita": 16745.022,
         "cvd_death_rate": 204.85,
         "diabetes_prevalence": 6.47,
-        "handwashing_facilities": 21.222,
         "hospital_beds_per_thousand": 0.8,
         "life_expectancy": 72.06,
         "data": [
@@ -23254,9 +23229,6 @@
                 "total_deaths_per_million": 1.899,
                 "new_deaths_per_million": 0.106
             }
-        ],
-        "extreme_poverty": 0.1,
-        "female_smokers": 1.3,
-        "male_smokers": 24.7
+        ]
     }
 ]

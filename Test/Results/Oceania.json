@@ -8,9 +8,11 @@
         "aged_65_older": 15.504,
         "aged_70_older": 10.129,
         "gdp_per_capita": 44648.71,
+        "extreme_poverty": 0.5,
         "cvd_death_rate": 107.791,
         "diabetes_prevalence": 5.07,
-        "handwashing_facilities": 94.043,
+        "female_smokers": 13.0,
+        "male_smokers": 16.5,
         "hospital_beds_per_thousand": 3.84,
         "life_expectancy": 83.44,
         "data": [
@@ -2688,10 +2690,7 @@
                 "total_deaths_per_million": 4.078,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 13.0,
-        "male_smokers": 16.5
+        ]
     },
     {
         "continent": "Oceania",
@@ -2702,9 +2701,11 @@
         "aged_65_older": 6.224,
         "aged_70_older": 3.284,
         "gdp_per_capita": 8702.975,
+        "extreme_poverty": 1.4,
         "cvd_death_rate": 412.82,
         "diabetes_prevalence": 14.49,
-        "handwashing_facilities": 7.96,
+        "female_smokers": 10.2,
+        "male_smokers": 34.8,
         "hospital_beds_per_thousand": 2.3,
         "life_expectancy": 67.44,
         "data": [
@@ -3863,10 +3864,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 1.4,
-        "female_smokers": 10.2,
-        "male_smokers": 34.8
+        ]
     },
     {
         "continent": "Oceania",
@@ -3876,11 +3874,7 @@
         "median_age": 32.7,
         "aged_65_older": 7.775,
         "aged_70_older": 4.593,
-        "gdp_per_capita": 38605.671,
-        "cvd_death_rate": 86.06,
         "diabetes_prevalence": 22.63,
-        "handwashing_facilities": 7.96,
-        "hospital_beds_per_thousand": 5.98,
         "life_expectancy": 77.66,
         "data": [
             {
@@ -5049,10 +5043,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 1.4,
-        "female_smokers": 30.1,
-        "male_smokers": 35.6
+        ]
     },
     {
         "continent": "Oceania",
@@ -5062,11 +5053,8 @@
         "median_age": 31.4,
         "aged_65_older": 9.551,
         "aged_70_older": 5.493,
-        "gdp_per_capita": 13593.877,
         "cvd_death_rate": 310.496,
         "diabetes_prevalence": 21.52,
-        "handwashing_facilities": 41.047,
-        "hospital_beds_per_thousand": 3.7,
         "life_expectancy": 80.07,
         "data": [
             {
@@ -6235,10 +6223,7 @@
                 "total_deaths_per_million": 29.624,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 1.5,
-        "female_smokers": 35.3,
-        "male_smokers": 52.0
+        ]
     },
     {
         "continent": "Oceania",
@@ -6248,11 +6233,7 @@
         "median_age": 33.4,
         "aged_65_older": 9.954,
         "aged_70_older": 6.489,
-        "gdp_per_capita": 48472.545,
-        "cvd_death_rate": 109.361,
         "diabetes_prevalence": 23.36,
-        "handwashing_facilities": 47.782,
-        "hospital_beds_per_thousand": 3.32,
         "life_expectancy": 77.55,
         "data": [
             {
@@ -7399,10 +7380,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 15.0,
-        "female_smokers": 24.4,
-        "male_smokers": 27.3
+        ]
     },
     {
         "continent": "Oceania",
@@ -7415,7 +7393,8 @@
         "gdp_per_capita": 36085.843,
         "cvd_death_rate": 128.797,
         "diabetes_prevalence": 8.08,
-        "handwashing_facilities": 47.782,
+        "female_smokers": 14.8,
+        "male_smokers": 17.2,
         "hospital_beds_per_thousand": 2.61,
         "life_expectancy": 82.29,
         "data": [
@@ -10158,24 +10137,14 @@
                 "total_deaths_per_million": 4.562,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 15.0,
-        "female_smokers": 14.8,
-        "male_smokers": 17.2
+        ]
     },
     {
         "continent": "Oceania",
         "location": "Northern Mariana Islands",
         "population": 57557.0,
         "population_density": 119.878,
-        "median_age": 18.1,
-        "aged_65_older": 2.751,
-        "aged_70_older": 1.447,
-        "gdp_per_capita": 5338.454,
         "cvd_death_rate": 194.994,
-        "diabetes_prevalence": 2.42,
-        "handwashing_facilities": 41.949,
-        "hospital_beds_per_thousand": 0.3,
         "life_expectancy": 76.74,
         "data": [
             {
@@ -11212,10 +11181,7 @@
                 "total_deaths_per_million": 34.748,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 44.5,
-        "female_smokers": 0.6,
-        "male_smokers": 10.8
+        ]
     },
     {
         "continent": "Oceania",
@@ -11228,8 +11194,8 @@
         "gdp_per_capita": 3823.194,
         "cvd_death_rate": 561.494,
         "diabetes_prevalence": 17.65,
-        "handwashing_facilities": 59.607,
-        "hospital_beds_per_thousand": 2.3,
+        "female_smokers": 23.5,
+        "male_smokers": 48.8,
         "life_expectancy": 64.5,
         "data": [
             {
@@ -12376,9 +12342,6 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 2.2,
-        "female_smokers": 23.5,
-        "male_smokers": 48.8
+        ]
     }
 ]
