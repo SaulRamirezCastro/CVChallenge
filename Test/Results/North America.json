@@ -3,15 +3,6 @@
         "continent": "North America",
         "location": "Anguilla",
         "population": 15002.0,
-        "population_density": 23.89,
-        "median_age": 16.8,
-        "aged_65_older": 2.405,
-        "aged_70_older": 1.362,
-        "gdp_per_capita": 5819.495,
-        "cvd_death_rate": 276.045,
-        "diabetes_prevalence": 3.94,
-        "handwashing_facilities": 26.664,
-        "hospital_beds_per_thousand": 1.9,
         "life_expectancy": 81.88,
         "data": [
             {
@@ -1092,10 +1083,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 29.0,
-        "male_smokers": 37.8
+        ]
     },
     {
         "continent": "North America",
@@ -1108,7 +1096,6 @@
         "gdp_per_capita": 21490.943,
         "cvd_death_rate": 191.511,
         "diabetes_prevalence": 13.17,
-        "handwashing_facilities": 26.664,
         "hospital_beds_per_thousand": 3.8,
         "life_expectancy": 77.02,
         "data": [
@@ -2267,10 +2254,7 @@
                 "total_deaths_per_million": 30.635,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 29.0,
-        "male_smokers": 37.8
+        ]
     },
     {
         "continent": "North America",
@@ -2281,10 +2265,7 @@
         "aged_65_older": 13.085,
         "aged_70_older": 7.452,
         "gdp_per_capita": 35973.781,
-        "cvd_death_rate": 341.01,
         "diabetes_prevalence": 11.62,
-        "handwashing_facilities": 94.043,
-        "hospital_beds_per_thousand": 4.2,
         "life_expectancy": 76.29,
         "data": [
             {
@@ -3409,10 +3390,7 @@
                 "total_deaths_per_million": 28.099,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 1.8,
-        "female_smokers": 1.5,
-        "male_smokers": 52.1
+        ]
     },
     {
         "continent": "North America",
@@ -3425,7 +3403,8 @@
         "gdp_per_capita": 27717.847,
         "cvd_death_rate": 235.954,
         "diabetes_prevalence": 13.17,
-        "handwashing_facilities": 83.241,
+        "female_smokers": 3.1,
+        "male_smokers": 20.4,
         "hospital_beds_per_thousand": 2.9,
         "life_expectancy": 73.92,
         "data": [
@@ -4606,10 +4585,7 @@
                 "total_deaths_per_million": 27.972,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.7,
-        "female_smokers": 3.1,
-        "male_smokers": 20.4
+        ]
     },
     {
         "continent": "North America",
@@ -4622,6 +4598,8 @@
         "gdp_per_capita": 16978.068,
         "cvd_death_rate": 170.05,
         "diabetes_prevalence": 13.57,
+        "female_smokers": 1.9,
+        "male_smokers": 14.5,
         "handwashing_facilities": 88.469,
         "hospital_beds_per_thousand": 5.8,
         "life_expectancy": 79.19,
@@ -5803,10 +5781,7 @@
                 "total_deaths_per_million": 24.359,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 14.8,
-        "female_smokers": 1.9,
-        "male_smokers": 14.5
+        ]
     },
     {
         "continent": "North America",
@@ -6934,24 +6909,16 @@
                 "total_deaths_per_million": 5.03,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.2,
-        "female_smokers": 25.1,
-        "male_smokers": 31.4
+        ]
     },
     {
         "continent": "North America",
         "location": "Bermuda",
         "population": 62273.0,
         "population_density": 1308.82,
-        "median_age": 18.8,
-        "aged_65_older": 3.244,
-        "aged_70_older": 1.942,
         "gdp_per_capita": 50669.315,
         "cvd_death_rate": 139.547,
         "diabetes_prevalence": 13.0,
-        "handwashing_facilities": 11.035,
-        "hospital_beds_per_thousand": 0.5,
         "life_expectancy": 82.59,
         "data": [
             {
@@ -8109,24 +8076,12 @@
                 "total_deaths_per_million": 144.525,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 49.6,
-        "female_smokers": 0.6,
-        "male_smokers": 12.3
+        ]
     },
     {
         "continent": "North America",
         "location": "Bonaire Sint Eustatius and Saba",
         "population": 26221.0,
-        "population_density": 10.202,
-        "median_age": 25.4,
-        "aged_65_older": 6.704,
-        "aged_70_older": 4.393,
-        "gdp_per_capita": 6885.829,
-        "cvd_death_rate": 204.299,
-        "diabetes_prevalence": 6.89,
-        "handwashing_facilities": 25.383,
-        "hospital_beds_per_thousand": 1.1,
         "life_expectancy": 77.79,
         "data": [
             {
@@ -9141,24 +9096,14 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 7.1,
-        "female_smokers": 0.6,
-        "male_smokers": 12.3
+        ]
     },
     {
         "continent": "North America",
         "location": "British Virgin Islands",
         "population": 30237.0,
         "population_density": 207.973,
-        "median_age": 33.5,
-        "aged_65_older": 8.552,
-        "aged_70_older": 5.06,
-        "gdp_per_capita": 14103.452,
-        "cvd_death_rate": 177.961,
         "diabetes_prevalence": 13.67,
-        "handwashing_facilities": 97.164,
-        "hospital_beds_per_thousand": 2.2,
         "life_expectancy": 79.07,
         "data": [
             {
@@ -10239,10 +10184,7 @@
                 "total_deaths_per_million": 33.072,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 3.4,
-        "female_smokers": 10.1,
-        "male_smokers": 17.9
+        ]
     },
     {
         "continent": "North America",
@@ -10253,9 +10195,11 @@
         "aged_65_older": 16.984,
         "aged_70_older": 10.797,
         "gdp_per_capita": 44017.591,
+        "extreme_poverty": 0.5,
         "cvd_death_rate": 105.599,
         "diabetes_prevalence": 7.37,
-        "handwashing_facilities": 2.735,
+        "female_smokers": 12.0,
+        "male_smokers": 16.6,
         "hospital_beds_per_thousand": 2.5,
         "life_expectancy": 82.43,
         "data": [
@@ -13008,24 +12952,15 @@
                 "total_deaths_per_million": 227.623,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 12.0,
-        "male_smokers": 16.6
+        ]
     },
     {
         "continent": "North America",
         "location": "Cayman Islands",
         "population": 65720.0,
         "population_density": 256.496,
-        "median_age": 25.7,
-        "aged_65_older": 4.46,
-        "aged_70_older": 3.437,
         "gdp_per_capita": 49903.029,
-        "cvd_death_rate": 182.219,
         "diabetes_prevalence": 13.22,
-        "handwashing_facilities": 2.735,
-        "hospital_beds_per_thousand": 2.1,
         "life_expectancy": 83.92,
         "data": [
             {
@@ -14183,10 +14118,7 @@
                 "total_deaths_per_million": 15.216,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 2.1,
-        "male_smokers": 16.5
+        ]
     },
     {
         "continent": "North America",
@@ -14197,8 +14129,11 @@
         "aged_65_older": 9.468,
         "aged_70_older": 5.694,
         "gdp_per_capita": 15524.995,
+        "extreme_poverty": 1.3,
         "cvd_death_rate": 137.973,
         "diabetes_prevalence": 8.78,
+        "female_smokers": 6.4,
+        "male_smokers": 17.4,
         "handwashing_facilities": 83.841,
         "hospital_beds_per_thousand": 1.13,
         "life_expectancy": 80.28,
@@ -16253,10 +16188,7 @@
                 "total_deaths_per_million": 3.337,
                 "new_deaths_per_million": 0.196
             }
-        ],
-        "extreme_poverty": 1.3,
-        "female_smokers": 6.4,
-        "male_smokers": 17.4
+        ]
     },
     {
         "continent": "North America",
@@ -16266,9 +16198,10 @@
         "median_age": 43.1,
         "aged_65_older": 14.738,
         "aged_70_older": 9.719,
-        "gdp_per_capita": 22669.797,
         "cvd_death_rate": 190.968,
         "diabetes_prevalence": 8.27,
+        "female_smokers": 17.1,
+        "male_smokers": 53.3,
         "handwashing_facilities": 85.198,
         "hospital_beds_per_thousand": 5.2,
         "life_expectancy": 78.8,
@@ -18174,10 +18107,7 @@
                 "total_deaths_per_million": 7.593,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.7,
-        "female_smokers": 17.1,
-        "male_smokers": 53.3
+        ]
     },
     {
         "continent": "North America",
@@ -18187,11 +18117,7 @@
         "median_age": 41.7,
         "aged_65_older": 16.367,
         "aged_70_older": 10.068,
-        "gdp_per_capita": 22669.797,
-        "cvd_death_rate": 190.968,
         "diabetes_prevalence": 11.62,
-        "handwashing_facilities": 85.198,
-        "hospital_beds_per_thousand": 5.2,
         "life_expectancy": 78.88,
         "data": [
             {
@@ -19305,23 +19231,16 @@
                 "total_deaths_per_million": 6.094,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.7,
-        "female_smokers": 17.1,
-        "male_smokers": 53.3
+        ]
     },
     {
         "continent": "North America",
         "location": "Dominica",
         "population": 71991.0,
         "population_density": 98.567,
-        "median_age": 25.4,
-        "aged_65_older": 4.213,
-        "aged_70_older": 2.38,
         "gdp_per_capita": 9673.367,
         "cvd_death_rate": 227.376,
         "diabetes_prevalence": 11.62,
-        "handwashing_facilities": 4.472,
         "hospital_beds_per_thousand": 3.8,
         "life_expectancy": 75.0,
         "data": [
@@ -20447,10 +20366,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 22.5,
-        "female_smokers": 1.7,
-        "male_smokers": 24.5
+        ]
     },
     {
         "continent": "North America",
@@ -20461,8 +20377,11 @@
         "aged_65_older": 6.981,
         "aged_70_older": 4.419,
         "gdp_per_capita": 14600.861,
+        "extreme_poverty": 1.6,
         "cvd_death_rate": 266.653,
         "diabetes_prevalence": 8.2,
+        "female_smokers": 8.5,
+        "male_smokers": 19.1,
         "handwashing_facilities": 55.182,
         "hospital_beds_per_thousand": 1.6,
         "life_expectancy": 74.08,
@@ -22403,10 +22322,7 @@
                 "total_deaths_per_million": 69.507,
                 "new_deaths_per_million": 0.645
             }
-        ],
-        "extreme_poverty": 1.6,
-        "female_smokers": 8.5,
-        "male_smokers": 19.1
+        ]
     },
     {
         "continent": "North America",
@@ -22417,8 +22333,11 @@
         "aged_65_older": 8.273,
         "aged_70_older": 5.417,
         "gdp_per_capita": 7292.458,
+        "extreme_poverty": 2.2,
         "cvd_death_rate": 167.295,
         "diabetes_prevalence": 8.87,
+        "female_smokers": 2.5,
+        "male_smokers": 18.8,
         "handwashing_facilities": 90.65,
         "hospital_beds_per_thousand": 1.3,
         "life_expectancy": 73.32,
@@ -24140,24 +24059,15 @@
                 "total_deaths_per_million": 28.06,
                 "new_deaths_per_million": 1.233
             }
-        ],
-        "extreme_poverty": 2.2,
-        "female_smokers": 2.5,
-        "male_smokers": 18.8
+        ]
     },
     {
         "continent": "North America",
         "location": "Greenland",
         "population": 56772.0,
         "population_density": 0.137,
-        "median_age": 45.3,
-        "aged_65_older": 20.396,
-        "aged_70_older": 14.524,
-        "gdp_per_capita": 24574.382,
         "cvd_death_rate": 199.941,
         "diabetes_prevalence": 2.16,
-        "handwashing_facilities": 41.047,
-        "hospital_beds_per_thousand": 4.21,
         "life_expectancy": 71.7,
         "data": [
             {
@@ -25315,10 +25225,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 1.5,
-        "female_smokers": 35.3,
-        "male_smokers": 52.0
+        ]
     },
     {
         "continent": "North America",
@@ -25331,7 +25238,6 @@
         "gdp_per_capita": 13593.877,
         "cvd_death_rate": 243.964,
         "diabetes_prevalence": 10.71,
-        "handwashing_facilities": 41.047,
         "hospital_beds_per_thousand": 3.7,
         "life_expectancy": 72.4,
         "data": [
@@ -26457,10 +26363,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 1.5,
-        "female_smokers": 35.3,
-        "male_smokers": 52.0
+        ]
     },
     {
         "continent": "North America",
@@ -26471,6 +26374,7 @@
         "aged_65_older": 4.694,
         "aged_70_older": 3.016,
         "gdp_per_capita": 7423.808,
+        "extreme_poverty": 8.7,
         "cvd_death_rate": 155.898,
         "diabetes_prevalence": 10.18,
         "handwashing_facilities": 76.665,
@@ -27687,10 +27591,7 @@
                 "total_deaths_per_million": 45.603,
                 "new_deaths_per_million": 2.456
             }
-        ],
-        "extreme_poverty": 8.7,
-        "female_smokers": 35.3,
-        "male_smokers": 52.0
+        ]
     },
     {
         "continent": "North America",
@@ -27701,8 +27602,11 @@
         "aged_65_older": 4.8,
         "aged_70_older": 2.954,
         "gdp_per_capita": 1653.173,
+        "extreme_poverty": 23.5,
         "cvd_death_rate": 430.548,
         "diabetes_prevalence": 6.65,
+        "female_smokers": 2.9,
+        "male_smokers": 23.1,
         "handwashing_facilities": 22.863,
         "hospital_beds_per_thousand": 0.7,
         "life_expectancy": 64.0,
@@ -28862,10 +28766,7 @@
                 "total_deaths_per_million": 9.384,
                 "new_deaths_per_million": 0.175
             }
-        ],
-        "extreme_poverty": 23.5,
-        "female_smokers": 2.9,
-        "male_smokers": 23.1
+        ]
     },
     {
         "continent": "North America",
@@ -28876,8 +28777,10 @@
         "aged_65_older": 4.652,
         "aged_70_older": 2.883,
         "gdp_per_capita": 4541.795,
+        "extreme_poverty": 16.0,
         "cvd_death_rate": 240.208,
         "diabetes_prevalence": 7.21,
+        "female_smokers": 2.0,
         "handwashing_facilities": 84.169,
         "hospital_beds_per_thousand": 0.7,
         "life_expectancy": 75.27,
@@ -30103,10 +30006,7 @@
                 "total_deaths_per_million": 54.722,
                 "new_deaths_per_million": 4.543
             }
-        ],
-        "extreme_poverty": 16.0,
-        "female_smokers": 2.0,
-        "male_smokers": 23.1
+        ]
     },
     {
         "continent": "North America",
@@ -30119,6 +30019,8 @@
         "gdp_per_capita": 8193.571,
         "cvd_death_rate": 206.537,
         "diabetes_prevalence": 11.28,
+        "female_smokers": 5.3,
+        "male_smokers": 28.6,
         "handwashing_facilities": 66.425,
         "hospital_beds_per_thousand": 1.7,
         "life_expectancy": 74.47,
@@ -31355,10 +31257,7 @@
                 "total_deaths_per_million": 3.377,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 2.0,
-        "female_smokers": 5.3,
-        "male_smokers": 28.6
+        ]
     },
     {
         "continent": "North America",
@@ -31369,8 +31268,11 @@
         "aged_65_older": 6.857,
         "aged_70_older": 4.321,
         "gdp_per_capita": 17336.469,
+        "extreme_poverty": 2.5,
         "cvd_death_rate": 152.783,
         "diabetes_prevalence": 13.06,
+        "female_smokers": 6.9,
+        "male_smokers": 21.4,
         "handwashing_facilities": 87.847,
         "hospital_beds_per_thousand": 1.38,
         "life_expectancy": 75.05,
@@ -34571,24 +34473,12 @@
                 "total_deaths_per_million": 221.123,
                 "new_deaths_per_million": 5.747
             }
-        ],
-        "extreme_poverty": 2.5,
-        "female_smokers": 6.9,
-        "male_smokers": 21.4
+        ]
     },
     {
         "continent": "North America",
         "location": "Montserrat",
         "population": 4999.0,
-        "population_density": 46.28,
-        "median_age": 39.1,
-        "aged_65_older": 14.762,
-        "aged_70_older": 9.395,
-        "gdp_per_capita": 16409.288,
-        "cvd_death_rate": 387.305,
-        "diabetes_prevalence": 10.08,
-        "handwashing_facilities": 71.18,
-        "hospital_beds_per_thousand": 3.861,
         "life_expectancy": 74.16,
         "data": [
             {
@@ -35724,10 +35614,7 @@
                 "total_deaths_per_million": 200.04,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 1.0,
-        "female_smokers": 44.0,
-        "male_smokers": 47.9
+        ]
     },
     {
         "continent": "North America",
@@ -35738,9 +35625,9 @@
         "aged_65_older": 5.445,
         "aged_70_older": 3.519,
         "gdp_per_capita": 5321.444,
+        "extreme_poverty": 3.2,
         "cvd_death_rate": 137.016,
         "diabetes_prevalence": 11.47,
-        "handwashing_facilities": 47.782,
         "hospital_beds_per_thousand": 0.9,
         "life_expectancy": 74.48,
         "data": [
@@ -36910,10 +36797,7 @@
                 "total_deaths_per_million": 12.529,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 3.2,
-        "female_smokers": 14.8,
-        "male_smokers": 17.2
+        ]
     },
     {
         "continent": "North America",
@@ -36924,9 +36808,11 @@
         "aged_65_older": 7.918,
         "aged_70_older": 5.03,
         "gdp_per_capita": 22267.037,
+        "extreme_poverty": 2.2,
         "cvd_death_rate": 128.346,
         "diabetes_prevalence": 8.33,
-        "handwashing_facilities": 59.607,
+        "female_smokers": 2.4,
+        "male_smokers": 9.9,
         "hospital_beds_per_thousand": 2.3,
         "life_expectancy": 78.51,
         "data": [
@@ -38960,10 +38846,7 @@
                 "total_deaths_per_million": 149.487,
                 "new_deaths_per_million": 3.245
             }
-        ],
-        "extreme_poverty": 2.2,
-        "female_smokers": 2.4,
-        "male_smokers": 9.9
+        ]
     },
     {
         "continent": "North America",
@@ -38976,8 +38859,6 @@
         "gdp_per_capita": 35044.67,
         "cvd_death_rate": 108.094,
         "diabetes_prevalence": 12.9,
-        "handwashing_facilities": 78.463,
-        "hospital_beds_per_thousand": 3.39,
         "life_expectancy": 80.1,
         "data": [
             {
@@ -40047,23 +39928,15 @@
                 "total_deaths_per_million": 53.481,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 16.3,
-        "male_smokers": 30.0
+        ]
     },
     {
         "continent": "North America",
         "location": "Saint Kitts and Nevis",
         "population": 53192.0,
         "population_density": 212.865,
-        "median_age": 20.3,
-        "aged_65_older": 2.974,
-        "aged_70_older": 1.642,
         "gdp_per_capita": 24654.385,
-        "cvd_death_rate": 191.375,
         "diabetes_prevalence": 12.84,
-        "handwashing_facilities": 4.617,
         "hospital_beds_per_thousand": 2.3,
         "life_expectancy": 76.23,
         "data": [
@@ -41156,10 +41029,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 56.0,
-        "female_smokers": 4.7,
-        "male_smokers": 21.0
+        ]
     },
     {
         "continent": "North America",
@@ -42386,10 +42256,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 56.0,
-        "female_smokers": 4.7,
-        "male_smokers": 21.0
+        ]
     },
     {
         "continent": "North America",
@@ -42402,7 +42269,6 @@
         "gdp_per_capita": 10727.146,
         "cvd_death_rate": 252.675,
         "diabetes_prevalence": 11.62,
-        "handwashing_facilities": 87.202,
         "hospital_beds_per_thousand": 2.6,
         "life_expectancy": 72.53,
         "data": [
@@ -43517,24 +43383,14 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 56.0,
-        "female_smokers": 4.7,
-        "male_smokers": 21.0
+        ]
     },
     {
         "continent": "North America",
         "location": "Sint Maarten (Dutch part)",
         "population": 42882.0,
         "population_density": 1209.088,
-        "median_age": 42.4,
-        "aged_65_older": 12.922,
-        "aged_70_older": 7.049,
         "gdp_per_capita": 36327.232,
-        "cvd_death_rate": 92.243,
-        "diabetes_prevalence": 10.99,
-        "handwashing_facilities": 19.275,
-        "hospital_beds_per_thousand": 2.4,
         "life_expectancy": 78.95,
         "data": [
             {
@@ -44626,10 +44482,7 @@
                 "total_deaths_per_million": 349.797,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 52.2,
-        "female_smokers": 5.2,
-        "male_smokers": 28.3
+        ]
     },
     {
         "continent": "North America",
@@ -45878,24 +45731,13 @@
                 "total_deaths_per_million": 5.716,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 49.2,
-        "female_smokers": 0.9,
-        "male_smokers": 14.2
+        ]
     },
     {
         "continent": "North America",
         "location": "Turks and Caicos Islands",
         "population": 38718.0,
         "population_density": 37.312,
-        "median_age": 31.6,
-        "aged_65_older": 8.153,
-        "aged_70_older": 5.061,
-        "gdp_per_capita": 25129.341,
-        "cvd_death_rate": 171.285,
-        "diabetes_prevalence": 12.13,
-        "handwashing_facilities": 78.687,
-        "hospital_beds_per_thousand": 2.81,
         "life_expectancy": 80.22,
         "data": [
             {
@@ -46998,10 +46840,7 @@
                 "total_deaths_per_million": 51.656,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.2,
-        "female_smokers": 14.1,
-        "male_smokers": 41.1
+        ]
     },
     {
         "continent": "North America",
@@ -47012,9 +46851,11 @@
         "aged_65_older": 15.413,
         "aged_70_older": 9.732,
         "gdp_per_capita": 54225.446,
+        "extreme_poverty": 1.2,
         "cvd_death_rate": 151.089,
         "diabetes_prevalence": 10.79,
-        "handwashing_facilities": 21.222,
+        "female_smokers": 19.1,
+        "male_smokers": 24.6,
         "hospital_beds_per_thousand": 2.77,
         "life_expectancy": 78.86,
         "data": [
@@ -49849,10 +49690,7 @@
                 "total_deaths_per_million": 386.891,
                 "new_deaths_per_million": 1.97
             }
-        ],
-        "extreme_poverty": 1.2,
-        "female_smokers": 19.1,
-        "male_smokers": 24.6
+        ]
     },
     {
         "continent": "North America",
@@ -49862,11 +49700,8 @@
         "median_age": 42.2,
         "aged_65_older": 18.601,
         "aged_70_older": 10.799,
-        "gdp_per_capita": 54225.446,
         "cvd_death_rate": 273.67,
         "diabetes_prevalence": 12.26,
-        "handwashing_facilities": 21.222,
-        "hospital_beds_per_thousand": 2.77,
         "life_expectancy": 80.58,
         "data": [
             {
@@ -50969,9 +50804,6 @@
                 "total_deaths_per_million": 57.459,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 1.2,
-        "female_smokers": 19.1,
-        "male_smokers": 24.6
+        ]
     }
 ]

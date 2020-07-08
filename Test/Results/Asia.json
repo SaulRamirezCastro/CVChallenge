@@ -1950,8 +1950,11 @@
         "aged_65_older": 11.232,
         "aged_70_older": 7.571,
         "gdp_per_capita": 8787.58,
+        "extreme_poverty": 1.8,
         "cvd_death_rate": 341.01,
         "diabetes_prevalence": 7.11,
+        "female_smokers": 1.5,
+        "male_smokers": 52.1,
         "handwashing_facilities": 94.043,
         "hospital_beds_per_thousand": 4.2,
         "life_expectancy": 75.09,
@@ -3892,10 +3895,7 @@
                 "total_deaths_per_million": 152.874,
                 "new_deaths_per_million": 3.375
             }
-        ],
-        "extreme_poverty": 1.8,
-        "female_smokers": 1.5,
-        "male_smokers": 52.1
+        ]
     },
     {
         "continent": "Asia",
@@ -3908,6 +3908,8 @@
         "gdp_per_capita": 15847.419,
         "cvd_death_rate": 559.812,
         "diabetes_prevalence": 7.11,
+        "female_smokers": 0.3,
+        "male_smokers": 42.5,
         "handwashing_facilities": 83.241,
         "hospital_beds_per_thousand": 4.7,
         "life_expectancy": 73.0,
@@ -5870,10 +5872,7 @@
                 "total_deaths_per_million": 21.698,
                 "new_deaths_per_million": 0.69
             }
-        ],
-        "extreme_poverty": 0.7,
-        "female_smokers": 0.3,
-        "male_smokers": 42.5
+        ]
     },
     {
         "continent": "Asia",
@@ -5886,7 +5885,8 @@
         "gdp_per_capita": 43290.705,
         "cvd_death_rate": 151.689,
         "diabetes_prevalence": 16.52,
-        "handwashing_facilities": 83.241,
+        "female_smokers": 5.8,
+        "male_smokers": 37.6,
         "hospital_beds_per_thousand": 2.0,
         "life_expectancy": 77.29,
         "data": [
@@ -8621,10 +8621,7 @@
                 "total_deaths_per_million": 54.067,
                 "new_deaths_per_million": 2.938
             }
-        ],
-        "extreme_poverty": 0.7,
-        "female_smokers": 5.8,
-        "male_smokers": 37.6
+        ]
     },
     {
         "continent": "Asia",
@@ -8635,8 +8632,11 @@
         "aged_65_older": 5.098,
         "aged_70_older": 3.262,
         "gdp_per_capita": 3523.984,
+        "extreme_poverty": 14.8,
         "cvd_death_rate": 298.003,
         "diabetes_prevalence": 8.38,
+        "female_smokers": 1.0,
+        "male_smokers": 44.7,
         "handwashing_facilities": 34.808,
         "hospital_beds_per_thousand": 0.8,
         "life_expectancy": 72.59,
@@ -10695,10 +10695,7 @@
                 "total_deaths_per_million": 11.464,
                 "new_deaths_per_million": 0.249
             }
-        ],
-        "extreme_poverty": 14.8,
-        "female_smokers": 1.0,
-        "male_smokers": 44.7
+        ]
     },
     {
         "continent": "Asia",
@@ -10709,6 +10706,7 @@
         "aged_65_older": 4.885,
         "aged_70_older": 2.977,
         "gdp_per_capita": 8708.597,
+        "extreme_poverty": 1.5,
         "cvd_death_rate": 217.066,
         "diabetes_prevalence": 9.75,
         "handwashing_facilities": 79.807,
@@ -11936,10 +11934,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 1.5,
-        "female_smokers": 0.6,
-        "male_smokers": 12.3
+        ]
     },
     {
         "continent": "Asia",
@@ -11952,7 +11947,8 @@
         "gdp_per_capita": 71809.251,
         "cvd_death_rate": 201.285,
         "diabetes_prevalence": 12.79,
-        "handwashing_facilities": 97.164,
+        "female_smokers": 2.0,
+        "male_smokers": 30.9,
         "hospital_beds_per_thousand": 2.7,
         "life_expectancy": 75.86,
         "data": [
@@ -13210,10 +13206,7 @@
                 "total_deaths_per_million": 6.857,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 3.4,
-        "female_smokers": 2.0,
-        "male_smokers": 30.9
+        ]
     },
     {
         "continent": "Asia",
@@ -13226,6 +13219,8 @@
         "gdp_per_capita": 3645.07,
         "cvd_death_rate": 270.892,
         "diabetes_prevalence": 4.0,
+        "female_smokers": 2.0,
+        "male_smokers": 33.7,
         "handwashing_facilities": 66.229,
         "hospital_beds_per_thousand": 0.8,
         "life_expectancy": 69.82,
@@ -15166,10 +15161,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 71.7,
-        "female_smokers": 2.0,
-        "male_smokers": 33.7
+        ]
     },
     {
         "continent": "Asia",
@@ -15180,9 +15172,11 @@
         "aged_65_older": 10.641,
         "aged_70_older": 5.929,
         "gdp_per_capita": 15308.712,
+        "extreme_poverty": 0.7,
         "cvd_death_rate": 261.899,
         "diabetes_prevalence": 9.74,
-        "handwashing_facilities": 5.818,
+        "female_smokers": 1.9,
+        "male_smokers": 48.4,
         "hospital_beds_per_thousand": 4.34,
         "life_expectancy": 76.91,
         "data": [
@@ -17221,10 +17215,7 @@
                 "total_deaths_per_million": 3.224,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.7,
-        "female_smokers": 1.9,
-        "male_smokers": 48.4
+        ]
     },
     {
         "continent": "Asia",
@@ -17235,9 +17226,11 @@
         "aged_65_older": 14.864,
         "aged_70_older": 10.244,
         "gdp_per_capita": 9745.079,
+        "extreme_poverty": 4.2,
         "cvd_death_rate": 496.218,
         "diabetes_prevalence": 7.11,
-        "handwashing_facilities": 7.876,
+        "female_smokers": 5.3,
+        "male_smokers": 55.5,
         "hospital_beds_per_thousand": 2.6,
         "life_expectancy": 73.77,
         "data": [
@@ -19243,10 +19236,7 @@
                 "total_deaths_per_million": 3.76,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 4.2,
-        "female_smokers": 5.3,
-        "male_smokers": 55.5
+        ]
     },
     {
         "continent": "Asia",
@@ -19257,10 +19247,7 @@
         "aged_65_older": 16.303,
         "aged_70_older": 10.158,
         "gdp_per_capita": 56054.92,
-        "cvd_death_rate": 240.208,
         "diabetes_prevalence": 8.33,
-        "handwashing_facilities": 84.169,
-        "hospital_beds_per_thousand": 0.7,
         "life_expectancy": 84.86,
         "data": [
             {
@@ -19299,10 +19286,7 @@
                 "total_tests_per_thousand": 42.884,
                 "tests_units": "tests performed"
             }
-        ],
-        "extreme_poverty": 16.0,
-        "female_smokers": 2.0,
-        "male_smokers": 23.1
+        ]
     },
     {
         "continent": "Asia",
@@ -19313,8 +19297,11 @@
         "aged_65_older": 5.989,
         "aged_70_older": 3.414,
         "gdp_per_capita": 6426.674,
+        "extreme_poverty": 21.2,
         "cvd_death_rate": 282.28,
         "diabetes_prevalence": 10.39,
+        "female_smokers": 1.9,
+        "male_smokers": 20.6,
         "handwashing_facilities": 59.55,
         "hospital_beds_per_thousand": 0.53,
         "life_expectancy": 69.66,
@@ -22046,10 +22033,7 @@
                 "total_deaths_per_million": 12.923,
                 "new_deaths_per_million": 0.314
             }
-        ],
-        "extreme_poverty": 21.2,
-        "female_smokers": 1.9,
-        "male_smokers": 20.6
+        ]
     },
     {
         "continent": "Asia",
@@ -22060,8 +22044,11 @@
         "aged_65_older": 5.319,
         "aged_70_older": 3.053,
         "gdp_per_capita": 11188.744,
+        "extreme_poverty": 5.7,
         "cvd_death_rate": 342.864,
         "diabetes_prevalence": 6.32,
+        "female_smokers": 2.8,
+        "male_smokers": 76.1,
         "handwashing_facilities": 64.204,
         "hospital_beds_per_thousand": 1.04,
         "life_expectancy": 71.72,
@@ -24718,10 +24705,7 @@
                 "total_deaths_per_million": 10.727,
                 "new_deaths_per_million": 0.212
             }
-        ],
-        "extreme_poverty": 5.7,
-        "female_smokers": 2.8,
-        "male_smokers": 76.1
+        ]
     },
     {
         "continent": "Asia",
@@ -24732,9 +24716,11 @@
         "aged_65_older": 5.44,
         "aged_70_older": 3.182,
         "gdp_per_capita": 19082.62,
+        "extreme_poverty": 0.2,
         "cvd_death_rate": 270.308,
         "diabetes_prevalence": 9.59,
-        "handwashing_facilities": 64.204,
+        "female_smokers": 0.8,
+        "male_smokers": 21.1,
         "hospital_beds_per_thousand": 1.5,
         "life_expectancy": 76.68,
         "data": [
@@ -27308,10 +27294,7 @@
                 "total_deaths_per_million": 130.463,
                 "new_deaths_per_million": 1.679
             }
-        ],
-        "extreme_poverty": 0.2,
-        "female_smokers": 0.8,
-        "male_smokers": 21.1
+        ]
     },
     {
         "continent": "Asia",
@@ -27322,6 +27305,7 @@
         "aged_65_older": 3.186,
         "aged_70_older": 1.957,
         "gdp_per_capita": 15663.986,
+        "extreme_poverty": 2.5,
         "cvd_death_rate": 218.612,
         "diabetes_prevalence": 8.83,
         "handwashing_facilities": 94.576,
@@ -29341,10 +29325,7 @@
                 "total_deaths_per_million": 50.966,
                 "new_deaths_per_million": 2.66
             }
-        ],
-        "extreme_poverty": 2.5,
-        "female_smokers": 0.8,
-        "male_smokers": 21.1
+        ]
     },
     {
         "continent": "Asia",
@@ -29355,9 +29336,11 @@
         "aged_65_older": 11.733,
         "aged_70_older": 7.359,
         "gdp_per_capita": 33132.32,
+        "extreme_poverty": 0.5,
         "cvd_death_rate": 93.32,
         "diabetes_prevalence": 6.74,
-        "handwashing_facilities": 94.576,
+        "female_smokers": 15.4,
+        "male_smokers": 35.4,
         "hospital_beds_per_thousand": 2.99,
         "life_expectancy": 82.97,
         "data": [
@@ -32379,10 +32362,7 @@
                 "total_deaths_per_million": 37.202,
                 "new_deaths_per_million": 0.231
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 15.4,
-        "male_smokers": 35.4
+        ]
     },
     {
         "continent": "Asia",
@@ -32395,7 +32375,8 @@
         "gdp_per_capita": 39002.223,
         "cvd_death_rate": 79.37,
         "diabetes_prevalence": 5.72,
-        "handwashing_facilities": 66.425,
+        "female_smokers": 11.2,
+        "male_smokers": 33.7,
         "hospital_beds_per_thousand": 13.05,
         "life_expectancy": 84.63,
         "data": [
@@ -35397,10 +35378,7 @@
                 "total_deaths_per_million": 7.709,
                 "new_deaths_per_million": 0.008
             }
-        ],
-        "extreme_poverty": 2.0,
-        "female_smokers": 11.2,
-        "male_smokers": 33.7
+        ]
     },
     {
         "continent": "Asia",
@@ -35411,9 +35389,9 @@
         "aged_65_older": 3.81,
         "aged_70_older": 2.361,
         "gdp_per_capita": 8337.49,
+        "extreme_poverty": 0.1,
         "cvd_death_rate": 208.257,
         "diabetes_prevalence": 11.75,
-        "handwashing_facilities": 66.425,
         "hospital_beds_per_thousand": 1.4,
         "life_expectancy": 74.53,
         "data": [
@@ -36649,10 +36627,7 @@
                 "total_deaths_per_million": 0.882,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.1,
-        "female_smokers": 11.2,
-        "male_smokers": 33.7
+        ]
     },
     {
         "continent": "Asia",
@@ -36663,8 +36638,11 @@
         "aged_65_older": 6.991,
         "aged_70_older": 4.625,
         "gdp_per_capita": 24055.588,
+        "extreme_poverty": 0.1,
         "cvd_death_rate": 466.792,
         "diabetes_prevalence": 7.11,
+        "female_smokers": 7.0,
+        "male_smokers": 43.1,
         "handwashing_facilities": 98.999,
         "hospital_beds_per_thousand": 6.7,
         "life_expectancy": 73.6,
@@ -38639,10 +38617,7 @@
                 "total_deaths_per_million": 10.012,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.1,
-        "female_smokers": 7.0,
-        "male_smokers": 43.1
+        ]
     },
     {
         "continent": "Asia",
@@ -38655,7 +38630,8 @@
         "gdp_per_capita": 65530.537,
         "cvd_death_rate": 132.235,
         "diabetes_prevalence": 15.84,
-        "handwashing_facilities": 24.651,
+        "female_smokers": 2.7,
+        "male_smokers": 37.0,
         "hospital_beds_per_thousand": 2.0,
         "life_expectancy": 75.49,
         "data": [
@@ -40995,10 +40971,7 @@
                 "total_deaths_per_million": 83.83,
                 "new_deaths_per_million": 0.937
             }
-        ],
-        "extreme_poverty": 0.6,
-        "female_smokers": 2.7,
-        "male_smokers": 37.0
+        ]
     },
     {
         "continent": "Asia",
@@ -41009,8 +40982,11 @@
         "aged_65_older": 4.489,
         "aged_70_older": 2.882,
         "gdp_per_capita": 3393.474,
+        "extreme_poverty": 1.4,
         "cvd_death_rate": 436.362,
         "diabetes_prevalence": 7.11,
+        "female_smokers": 3.6,
+        "male_smokers": 50.5,
         "handwashing_facilities": 89.22,
         "hospital_beds_per_thousand": 4.5,
         "life_expectancy": 71.45,
@@ -42181,10 +42157,7 @@
                 "total_deaths_per_million": 9.503,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 1.4,
-        "female_smokers": 3.6,
-        "male_smokers": 50.5
+        ]
     },
     {
         "continent": "Asia",
@@ -42195,8 +42168,11 @@
         "aged_65_older": 4.029,
         "aged_70_older": 2.322,
         "gdp_per_capita": 6397.36,
+        "extreme_poverty": 22.7,
         "cvd_death_rate": 368.111,
         "diabetes_prevalence": 4.0,
+        "female_smokers": 7.3,
+        "male_smokers": 51.2,
         "handwashing_facilities": 49.839,
         "hospital_beds_per_thousand": 1.5,
         "life_expectancy": 67.92,
@@ -43301,10 +43277,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 22.7,
-        "female_smokers": 7.3,
-        "male_smokers": 51.2
+        ]
     },
     {
         "continent": "Asia",
@@ -43317,7 +43290,8 @@
         "gdp_per_capita": 13367.565,
         "cvd_death_rate": 266.591,
         "diabetes_prevalence": 12.71,
-        "handwashing_facilities": 49.839,
+        "female_smokers": 26.9,
+        "male_smokers": 40.7,
         "hospital_beds_per_thousand": 2.9,
         "life_expectancy": 78.93,
         "data": [
@@ -45312,10 +45286,7 @@
                 "total_deaths_per_million": 4.981,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.7,
-        "female_smokers": 26.9,
-        "male_smokers": 40.7
+        ]
     },
     {
         "continent": "Asia",
@@ -45326,9 +45297,11 @@
         "aged_65_older": 6.293,
         "aged_70_older": 3.407,
         "gdp_per_capita": 26808.164,
+        "extreme_poverty": 0.1,
         "cvd_death_rate": 260.942,
         "diabetes_prevalence": 16.74,
-        "handwashing_facilities": 8.704,
+        "female_smokers": 1.0,
+        "male_smokers": 42.4,
         "hospital_beds_per_thousand": 1.9,
         "life_expectancy": 76.16,
         "data": [
@@ -48172,10 +48145,7 @@
                 "total_deaths_per_million": 3.738,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.1,
-        "female_smokers": 1.0,
-        "male_smokers": 42.4
+        ]
     },
     {
         "continent": "Asia",
@@ -48188,8 +48158,9 @@
         "gdp_per_capita": 15183.616,
         "cvd_death_rate": 164.905,
         "diabetes_prevalence": 9.19,
+        "female_smokers": 2.1,
+        "male_smokers": 55.0,
         "handwashing_facilities": 95.803,
-        "hospital_beds_per_thousand": 1.9,
         "life_expectancy": 78.92,
         "data": [
             {
@@ -50109,10 +50080,7 @@
                 "total_deaths_per_million": 16.65,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.1,
-        "female_smokers": 2.1,
-        "male_smokers": 55.0
+        ]
     },
     {
         "continent": "Asia",
@@ -50123,8 +50091,11 @@
         "aged_65_older": 4.031,
         "aged_70_older": 2.421,
         "gdp_per_capita": 11840.846,
+        "extreme_poverty": 0.5,
         "cvd_death_rate": 460.043,
         "diabetes_prevalence": 4.82,
+        "female_smokers": 5.5,
+        "male_smokers": 46.5,
         "handwashing_facilities": 71.18,
         "hospital_beds_per_thousand": 7.0,
         "life_expectancy": 69.87,
@@ -51328,10 +51299,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 5.5,
-        "male_smokers": 46.5
+        ]
     },
     {
         "continent": "Asia",
@@ -51342,8 +51310,11 @@
         "aged_65_older": 5.732,
         "aged_70_older": 3.12,
         "gdp_per_capita": 5591.597,
+        "extreme_poverty": 6.4,
         "cvd_death_rate": 202.104,
         "diabetes_prevalence": 4.61,
+        "female_smokers": 6.3,
+        "male_smokers": 35.2,
         "handwashing_facilities": 79.287,
         "hospital_beds_per_thousand": 0.9,
         "life_expectancy": 67.13,
@@ -53046,10 +53017,7 @@
                 "total_deaths_per_million": 0.11,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 6.4,
-        "female_smokers": 6.3,
-        "male_smokers": 35.2
+        ]
     },
     {
         "continent": "Asia",
@@ -53060,8 +53028,11 @@
         "aged_65_older": 5.809,
         "aged_70_older": 3.212,
         "gdp_per_capita": 2442.804,
+        "extreme_poverty": 15.0,
         "cvd_death_rate": 260.797,
         "diabetes_prevalence": 7.26,
+        "female_smokers": 9.5,
+        "male_smokers": 37.8,
         "handwashing_facilities": 47.782,
         "hospital_beds_per_thousand": 0.3,
         "life_expectancy": 70.78,
@@ -55834,10 +55805,7 @@
                 "total_deaths_per_million": 1.03,
                 "new_deaths_per_million": 0.034
             }
-        ],
-        "extreme_poverty": 15.0,
-        "female_smokers": 9.5,
-        "male_smokers": 37.8
+        ]
     },
     {
         "continent": "Asia",
@@ -55850,6 +55818,8 @@
         "gdp_per_capita": 37960.709,
         "cvd_death_rate": 266.342,
         "diabetes_prevalence": 12.61,
+        "female_smokers": 0.5,
+        "male_smokers": 15.6,
         "handwashing_facilities": 97.4,
         "hospital_beds_per_thousand": 1.6,
         "life_expectancy": 77.86,
@@ -57951,10 +57921,7 @@
                 "total_deaths_per_million": 36.227,
                 "new_deaths_per_million": 1.762
             }
-        ],
-        "extreme_poverty": 0.2,
-        "female_smokers": 0.5,
-        "male_smokers": 15.6
+        ]
     },
     {
         "continent": "Asia",
@@ -57965,8 +57932,11 @@
         "aged_65_older": 4.495,
         "aged_70_older": 2.78,
         "gdp_per_capita": 5034.708,
+        "extreme_poverty": 4.0,
         "cvd_death_rate": 423.031,
         "diabetes_prevalence": 8.35,
+        "female_smokers": 2.8,
+        "male_smokers": 36.7,
         "handwashing_facilities": 59.607,
         "hospital_beds_per_thousand": 0.6,
         "life_expectancy": 67.27,
@@ -60720,10 +60690,7 @@
                 "total_deaths_per_million": 20.25,
                 "new_deaths_per_million": 0.353
             }
-        ],
-        "extreme_poverty": 4.0,
-        "female_smokers": 2.8,
-        "male_smokers": 36.7
+        ]
     },
     {
         "continent": "Asia",
@@ -60734,10 +60701,9 @@
         "aged_65_older": 3.043,
         "aged_70_older": 1.726,
         "gdp_per_capita": 4449.898,
+        "extreme_poverty": 1.0,
         "cvd_death_rate": 265.91,
         "diabetes_prevalence": 10.59,
-        "handwashing_facilities": 59.607,
-        "hospital_beds_per_thousand": 0.6,
         "life_expectancy": 74.05,
         "data": [
             {
@@ -62016,10 +61982,7 @@
                 "total_deaths_per_million": 2.156,
                 "new_deaths_per_million": 0.392
             }
-        ],
-        "extreme_poverty": 1.0,
-        "female_smokers": 2.8,
-        "male_smokers": 36.7
+        ]
     },
     {
         "continent": "Asia",
@@ -62032,6 +61995,8 @@
         "gdp_per_capita": 7599.188,
         "cvd_death_rate": 370.437,
         "diabetes_prevalence": 7.07,
+        "female_smokers": 7.8,
+        "male_smokers": 40.8,
         "handwashing_facilities": 78.463,
         "hospital_beds_per_thousand": 1.0,
         "life_expectancy": 71.23,
@@ -64627,10 +64592,7 @@
                 "total_deaths_per_million": 11.59,
                 "new_deaths_per_million": 0.037
             }
-        ],
-        "extreme_poverty": 3.5,
-        "female_smokers": 7.8,
-        "male_smokers": 40.8
+        ]
     },
     {
         "continent": "Asia",
@@ -64643,7 +64605,8 @@
         "gdp_per_capita": 116935.6,
         "cvd_death_rate": 176.69,
         "diabetes_prevalence": 16.52,
-        "handwashing_facilities": 78.463,
+        "female_smokers": 0.8,
+        "male_smokers": 26.9,
         "hospital_beds_per_thousand": 1.2,
         "life_expectancy": 80.23,
         "data": [
@@ -67358,10 +67321,7 @@
                 "total_deaths_per_million": 39.916,
                 "new_deaths_per_million": 0.694
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 0.8,
-        "male_smokers": 26.9
+        ]
     },
     {
         "continent": "Asia",
@@ -67374,7 +67334,8 @@
         "gdp_per_capita": 49045.411,
         "cvd_death_rate": 259.538,
         "diabetes_prevalence": 17.72,
-        "handwashing_facilities": 41.34,
+        "female_smokers": 1.8,
+        "male_smokers": 25.4,
         "hospital_beds_per_thousand": 2.7,
         "life_expectancy": 75.13,
         "data": [
@@ -69058,10 +69019,7 @@
                 "total_deaths_per_million": 48.774,
                 "new_deaths_per_million": 1.407
             }
-        ],
-        "extreme_poverty": 32.3,
-        "female_smokers": 1.8,
-        "male_smokers": 25.4
+        ]
     },
     {
         "continent": "Asia",
@@ -69074,7 +69032,8 @@
         "gdp_per_capita": 85535.383,
         "cvd_death_rate": 92.243,
         "diabetes_prevalence": 10.99,
-        "handwashing_facilities": 19.275,
+        "female_smokers": 5.2,
+        "male_smokers": 28.3,
         "hospital_beds_per_thousand": 2.4,
         "life_expectancy": 83.62,
         "data": [
@@ -71377,10 +71336,7 @@
                 "total_deaths_per_million": 4.444,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 52.2,
-        "female_smokers": 5.2,
-        "male_smokers": 28.3
+        ]
     },
     {
         "continent": "Asia",
@@ -71391,9 +71347,11 @@
         "aged_65_older": 13.914,
         "aged_70_older": 8.622,
         "gdp_per_capita": 35938.374,
+        "extreme_poverty": 0.2,
         "cvd_death_rate": 85.998,
         "diabetes_prevalence": 6.8,
-        "handwashing_facilities": 43.993,
+        "female_smokers": 6.2,
+        "male_smokers": 40.9,
         "hospital_beds_per_thousand": 12.27,
         "life_expectancy": 83.03,
         "data": [
@@ -74449,10 +74407,7 @@
                 "total_deaths_per_million": 5.5,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.2,
-        "female_smokers": 6.2,
-        "male_smokers": 40.9
+        ]
     },
     {
         "continent": "Asia",
@@ -74463,9 +74418,11 @@
         "aged_65_older": 10.069,
         "aged_70_older": 5.331,
         "gdp_per_capita": 11669.077,
+        "extreme_poverty": 0.7,
         "cvd_death_rate": 197.093,
         "diabetes_prevalence": 10.68,
-        "handwashing_facilities": 43.993,
+        "female_smokers": 0.3,
+        "male_smokers": 27.0,
         "hospital_beds_per_thousand": 3.6,
         "life_expectancy": 76.98,
         "data": [
@@ -76405,22 +76362,15 @@
                 "total_deaths_per_million": 0.514,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.7,
-        "female_smokers": 0.3,
-        "male_smokers": 27.0
+        ]
     },
     {
         "continent": "Asia",
         "location": "Syria",
         "population": 17500657.0,
-        "population_density": 214.243,
         "median_age": 21.7,
-        "aged_65_older": 18.436,
         "aged_70_older": 2.577,
-        "gdp_per_capita": 57410.166,
         "cvd_death_rate": 376.264,
-        "diabetes_prevalence": 5.59,
         "handwashing_facilities": 70.598,
         "hospital_beds_per_thousand": 1.5,
         "life_expectancy": 72.7,
@@ -77547,24 +77497,15 @@
                 "total_deaths_per_million": 0.514,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 22.6,
-        "male_smokers": 28.9
+        ]
     },
     {
         "continent": "Asia",
         "location": "Taiwan",
         "population": 23816775.0,
-        "population_density": 214.243,
         "median_age": 42.2,
-        "aged_65_older": 18.436,
         "aged_70_older": 8.353,
-        "gdp_per_capita": 57410.166,
         "cvd_death_rate": 103.957,
-        "diabetes_prevalence": 5.59,
-        "handwashing_facilities": 70.598,
-        "hospital_beds_per_thousand": 1.5,
         "life_expectancy": 80.46,
         "data": [
             {
@@ -80300,10 +80241,7 @@
                 "total_deaths_per_million": 0.294,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.5,
-        "female_smokers": 22.6,
-        "male_smokers": 28.9
+        ]
     },
     {
         "continent": "Asia",
@@ -80314,6 +80252,7 @@
         "aged_65_older": 3.466,
         "aged_70_older": 2.155,
         "gdp_per_capita": 2896.913,
+        "extreme_poverty": 4.8,
         "cvd_death_rate": 427.698,
         "diabetes_prevalence": 7.11,
         "handwashing_facilities": 72.704,
@@ -81013,10 +80952,7 @@
                 "total_deaths_per_million": 5.452,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 4.8,
-        "female_smokers": 22.6,
-        "male_smokers": 28.9
+        ]
     },
     {
         "continent": "Asia",
@@ -81027,8 +80963,11 @@
         "aged_65_older": 11.373,
         "aged_70_older": 6.89,
         "gdp_per_capita": 16277.671,
+        "extreme_poverty": 0.1,
         "cvd_death_rate": 109.861,
         "diabetes_prevalence": 7.04,
+        "female_smokers": 1.9,
+        "male_smokers": 38.8,
         "handwashing_facilities": 90.67,
         "hospital_beds_per_thousand": 2.1,
         "life_expectancy": 77.15,
@@ -83235,10 +83174,7 @@
                 "total_deaths_per_million": 0.831,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.1,
-        "female_smokers": 1.9,
-        "male_smokers": 38.8
+        ]
     },
     {
         "continent": "Asia",
@@ -83249,8 +83185,11 @@
         "aged_65_older": 3.556,
         "aged_70_older": 1.897,
         "gdp_per_capita": 6570.102,
+        "extreme_poverty": 30.3,
         "cvd_death_rate": 335.346,
         "diabetes_prevalence": 6.86,
+        "female_smokers": 6.3,
+        "male_smokers": 78.1,
         "handwashing_facilities": 28.178,
         "hospital_beds_per_thousand": 5.9,
         "life_expectancy": 69.5,
@@ -84388,10 +84327,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 30.3,
-        "female_smokers": 6.3,
-        "male_smokers": 78.1
+        ]
     },
     {
         "continent": "Asia",
@@ -84402,9 +84338,11 @@
         "aged_65_older": 8.153,
         "aged_70_older": 5.061,
         "gdp_per_capita": 25129.341,
+        "extreme_poverty": 0.2,
         "cvd_death_rate": 171.285,
         "diabetes_prevalence": 12.13,
-        "handwashing_facilities": 78.687,
+        "female_smokers": 14.1,
+        "male_smokers": 41.1,
         "hospital_beds_per_thousand": 2.81,
         "life_expectancy": 77.69,
         "data": [
@@ -86331,10 +86269,7 @@
                 "total_deaths_per_million": 61.063,
                 "new_deaths_per_million": 0.225
             }
-        ],
-        "extreme_poverty": 0.2,
-        "female_smokers": 14.1,
-        "male_smokers": 41.1
+        ]
     },
     {
         "continent": "Asia",
@@ -86347,7 +86282,8 @@
         "gdp_per_capita": 67293.483,
         "cvd_death_rate": 317.84,
         "diabetes_prevalence": 17.26,
-        "handwashing_facilities": 21.222,
+        "female_smokers": 1.2,
+        "male_smokers": 37.4,
         "hospital_beds_per_thousand": 1.2,
         "life_expectancy": 77.97,
         "data": [
@@ -88320,10 +88256,7 @@
                 "total_deaths_per_million": 31.95,
                 "new_deaths_per_million": 0.101
             }
-        ],
-        "extreme_poverty": 0.1,
-        "female_smokers": 1.2,
-        "male_smokers": 37.4
+        ]
     },
     {
         "continent": "Asia",
@@ -88336,7 +88269,8 @@
         "gdp_per_capita": 6253.104,
         "cvd_death_rate": 724.417,
         "diabetes_prevalence": 7.57,
-        "handwashing_facilities": 21.222,
+        "female_smokers": 1.3,
+        "male_smokers": 24.7,
         "hospital_beds_per_thousand": 4.0,
         "life_expectancy": 71.72,
         "data": [
@@ -89539,10 +89473,7 @@
                 "total_deaths_per_million": 0.777,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 0.1,
-        "female_smokers": 1.3,
-        "male_smokers": 24.7
+        ]
     },
     {
         "continent": "Asia",
@@ -89553,8 +89484,11 @@
         "aged_65_older": 7.15,
         "aged_70_older": 4.718,
         "gdp_per_capita": 6171.884,
+        "extreme_poverty": 2.0,
         "cvd_death_rate": 245.465,
         "diabetes_prevalence": 6.0,
+        "female_smokers": 1.0,
+        "male_smokers": 45.9,
         "handwashing_facilities": 85.847,
         "hospital_beds_per_thousand": 2.6,
         "life_expectancy": 75.4,
@@ -91843,10 +91777,7 @@
                 "total_deaths_per_million": 0.0,
                 "new_deaths_per_million": 0.0
             }
-        ],
-        "extreme_poverty": 2.0,
-        "female_smokers": 1.0,
-        "male_smokers": 45.9
+        ]
     },
     {
         "continent": "Asia",
@@ -91857,8 +91788,11 @@
         "aged_65_older": 2.922,
         "aged_70_older": 1.583,
         "gdp_per_capita": 1479.147,
+        "extreme_poverty": 18.8,
         "cvd_death_rate": 495.003,
         "diabetes_prevalence": 5.35,
+        "female_smokers": 7.6,
+        "male_smokers": 29.2,
         "handwashing_facilities": 49.542,
         "hospital_beds_per_thousand": 0.7,
         "life_expectancy": 66.12,
@@ -92787,9 +92721,6 @@
                 "total_deaths_per_million": 10.662,
                 "new_deaths_per_million": 0.201
             }
-        ],
-        "extreme_poverty": 18.8,
-        "female_smokers": 7.6,
-        "male_smokers": 29.2
+        ]
     }
 ]
